@@ -1,3 +1,3 @@
-Ghost Trappers Simple Autohunt v4.04
+Ghost Trappers Simple Autohunt v4.07
 
-v 4.04: Added auto video watcher
+See the @history inside the js file.
