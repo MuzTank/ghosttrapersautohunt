@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name           Ghost Trappers - Simple Autohunt
-// @author         GTDevsSuck
+// @author         GTDevsSuck, MuzTank
 // @namespace      Original versions by Jaryl & iispyderii
 // @version        4.04
 // @description    Easy and simple auto-hunt and auto-assist script for the Ghost Trappers Facebook Game
